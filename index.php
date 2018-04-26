@@ -1,5 +1,5 @@
 <?php
-  $title = 'Index
+  $title = 'Index';
 ?>
 <html>
   <body>
